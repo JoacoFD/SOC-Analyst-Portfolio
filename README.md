@@ -30,4 +30,4 @@ En este repositorio documento mi progreso y habilidades técnicas en ciberseguri
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
-📫 **Contacto:** [Tu LinkedIn o Email aquí]
+📫 **Contacto:** Joaquindomenech5@gmail.com
